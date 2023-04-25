@@ -4,7 +4,7 @@ function hasKey(key) {
   //   write your code here
   For(let i in sampleObject){
     if(i==key)
-        return true;
+        return true
     
 
   }
